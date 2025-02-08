@@ -1,0 +1,5 @@
+thresholds:
+  bandwidth_mbps: 100
+  packet_rate: 1000
+  error_rate: 0.01
+
